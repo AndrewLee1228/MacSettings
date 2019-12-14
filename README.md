@@ -19,6 +19,8 @@ Brewfile을 이용해서 개인/팀 개발환경 만들기
 - iState Menus
 - 네이버 웨일
 - AdobeXD
+- Bootstrap Studio
+- Better Touch Tool (https://www.youtube.com/watch?v=1g7xFZkcU-g, https://tagilog.tistory.com/183)
 
 ## 이후 작업
 - [macs-fan-control 설정](https://github.com/AndrewLee1228/MacSettings/issues/1)
