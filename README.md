@@ -24,4 +24,7 @@ Brewfile을 이용해서 개인/팀 개발환경 만들기
 - [macs-fan-control 설정](https://github.com/AndrewLee1228/MacSettings/issues/1)
 - [키보드 설정(karabiner)](https://github.com/AndrewLee1228/MacSettings/issues/2)
 - [안드로이드 & 플러터](https://github.com/AndrewLee1228/MacSettings/issues/3)
+- [Zsh와 ohmyzsh 와 iTerm](https://github.com/AndrewLee1228/MacSettings/issues/4)
+- [Git 세팅](https://github.com/AndrewLee1228/GitSetting-Tip)
+- [그외](https://docs.google.com/document/d/1Neup9_ww8OIYNX2ywB8WiuUkoROxGnsBILJ6F4Xzw4c/edit?usp=sharing)
   
