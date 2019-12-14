@@ -21,8 +21,7 @@ iState Menus
 adobexd
 
 ## 이후 작업
-- macs-fan-control 설정
-  
+- [macs-fan-control 설정](https://github.com/AndrewLee1228/MacSettings/issues/1)
 
 - 안드로이드 & 플러터
   안드로이드와 코틀린언어는 jdk 기반에서 동작하는데 오라클이 2019년 1월 이후로 유료선언 (기존 버전은 더이상 업데이트 없음) 그래서 현재는 AndroidStudio에
