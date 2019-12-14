@@ -18,7 +18,7 @@ Brewfile을 이용해서 개인/팀 개발환경 만들기
 - PhotoScape X
 - iState Menus
 - 네이버 웨일
-- adobexd
+- AdobeXD
 
 ## 이후 작업
 - [macs-fan-control 설정](https://github.com/AndrewLee1228/MacSettings/issues/1)
