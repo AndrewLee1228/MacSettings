@@ -3,7 +3,8 @@ tap "homebrew/bundle"
 tap "homebrew/core"
 tap "homebrew/cask"
 tap "AdoptOpenJDK/openjdk"
-brew "homebrew/mas"
+
+# brew install
 brew "cocoapods"
 brew "kotlin"
 brew "usbmuxd", args: ["HEAD"]
@@ -44,4 +45,4 @@ cask "gitter"
 cask "adoptopenjdk8"
 mas "KakaoTalk", id: 869223134
 mas "Xcode", id: 497799835
-mas "DevCleaner for Xcode" id: 1388020431
+mas "DevCleaner for Xcode", id: 1388020431
