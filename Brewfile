@@ -3,6 +3,7 @@ tap "homebrew/bundle"
 tap "homebrew/core"
 tap "homebrew/cask"
 tap "AdoptOpenJDK/openjdk"
+tap "homebrew/cask-fonts"
 
 # brew install
 brew "cocoapods"
